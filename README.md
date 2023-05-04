@@ -10,3 +10,8 @@ LANDING PAGE : Building a Pet Lover Web page by using HTML and CSS.
 Task 2:
 
 Portfolio page : My portfolio by showing a wide range of samples and skills adding resume, contact information, etc
+
+Task 3:
+
+Temperature Calculator : converting degree to fahreneit
+
